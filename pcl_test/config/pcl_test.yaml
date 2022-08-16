@@ -1,0 +1,4 @@
+process_sim_xiangliang_ra:
+    sz : -1  # Downsampling size during preprocessing, no downsampling when set to - 1
+    shown : false  # Whether to show the intermediate processing process
+
